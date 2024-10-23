@@ -11,5 +11,17 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+
 This organization contains all the major projects undertook by the students of  
 [Hódmezővásárhelyi SZC Szentesi Pollák Antal Technikum](https://www.pollak.hu/)
+
+---
+
+If you have any questions or suggestions you can always approach  
+- [Feke András](https://github.com/AFekexd)  
+- [Huszka Adrián Gábor](https://github.com/adrianhuszka)
+- [Tamáskovits Gyula Ákos](https://github.com/TGyAkos)
+
+---
+
+Made with ❤️ by [TGyAkos](https://github.com/TGyAkos)
